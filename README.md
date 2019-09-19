@@ -8,13 +8,11 @@ We have given some suggestions for additional features to do if you want and hav
 # Installation :wrench:
 Make sure you have the latest version of [Node.js](https://nodejs.org/) installed.
 
-Start by [forking this repository](https://git.is.comhem.com/competence/todo-react-app/forks/new) :arrow_down:
-
-Then make a local clone:
+Make a local clone:
 
 ```sh
-$ git clone ssh://git@git.is.comhem.com:7999/{insert-your-gitlab-user-name}/todo-react-app.git
-$ cd todo-react-app
+$ git clone https://github.com/jonnakollin/todo-app.git
+$ cd todo-app
 
 ```
 
